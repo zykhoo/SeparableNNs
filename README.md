@@ -7,7 +7,4 @@ Following the nomenclature of physics-informed machine learning, we propose thre
 
 
 
-A long version of this paper is available on [arXiv](https://arxiv.org/abs/2309.01069).
-Paper changelog:
-1. 6 Sept 2023: Updated the erroneous loss functions in figure 2. The summations should start from 0 instead of 1. We unreservedly apologise for any misunderstanding the erroneous figure has caused. 
 
